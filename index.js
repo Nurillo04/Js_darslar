@@ -27,7 +27,7 @@
 // var c = a ** b;
 // console.log(c);
 
-
+/*  2 */
 
 var userName = prompt('ismingizni kiriting')
 var money = prompt(`${userName} pulingizni kiriting`);
