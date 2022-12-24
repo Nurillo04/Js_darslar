@@ -29,15 +29,15 @@
 
 /*  2 */
 
-var userName = prompt('ismingizni kiriting')
-var money = prompt(`${userName} pulingizni kiriting`);
-var a = 500;
-var b = 250;
-var dollor = 10650.34;
+// var userName = prompt('ismingizni kiriting')
+// var money = prompt(`${userName} pulingizni kiriting`);
+// var a = 500;
+// var b = 250;
+// var dollor = 10650.34;
 
-var c = 120;
-var yevro = 10650.03;
+// var c = 120;
+// var yevro = 10650.03;
 
-var sum = (a * dollor) + (b * dollor) + (c * yevro);
-console.log(money);
-console.log(sum);
+// var sum = (a * dollor) + (b * dollor) + (c * yevro);
+// console.log(money);
+// console.log(sum);
