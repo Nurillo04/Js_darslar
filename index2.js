@@ -17,7 +17,7 @@
 // var number = 23;
 // number = number + 7;
 // console.log(number);
-/
+
 // var number = 23;
 // number++;
 // console.log(number++); // 24
